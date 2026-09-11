@@ -10,6 +10,7 @@ labels:
   - Software Engineering
 ---
 
+
 ## First Time Using TypeScript
 
 I was introduced to TypeScript for the first time in ICS 314. TypeScript is like a superset of JavaScript, with added features such as compile-time type checking. While doing the TypeScript tutorials, one thing that stood out to me as a challenge was the syntax. There were times wheen I had an idea of how I could implement a solution for the assignment but forgot the proper syntax and had a bunch of errors. However, after a few more assignments I was able to become comfortable with the basics in TypeScript such as making classes and constructors.
