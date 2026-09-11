@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/N2CAD.png
 title: Neutron-2
-date: 2026
+date: 2026-09-10
 published: true
 labels:
   - Mission Operations
