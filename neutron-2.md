@@ -1,7 +1,7 @@
 ---
 layout: project
 type: Neutron-2
-image: img/micromouse/micromouse-square.jpg
+image: img/N2CAD.png
 title: ""
 date: 2026
 published: true
