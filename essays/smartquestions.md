@@ -18,6 +18,8 @@ As a current university student, I find myself getting stuck on problems all the
 
 According to Raymond, it is always a good idea to research the problem on your own before asking others for help. If you still cannot find a solution, you should provide as much relevant information and context as possible so that others can better understand the problem and give you a useful answer. Below are examples of how to properly ask a "smart" question compared to a "not so smart" question.
 
+<img width="300px" class="rounded float-start pe-4" src="../img/smartquestion.png">
+
 ## Smart vs Not So Smart Questions on Stack Overflow
 
 An example of a "smart" question that I found on Stack Overflow was this developer asking [why removing an unused class member slowed down their C++ program](https://stackoverflow.com/questions/79996455/removing-an-unused-class-member-slows-down-program).
