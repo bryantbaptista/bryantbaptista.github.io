@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart vs Not so Smart Ways to Ask a Question"
+title: "Smart vs Not So Smart Ways to Ask a Question"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-10
 published: true
