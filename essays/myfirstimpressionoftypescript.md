@@ -17,6 +17,8 @@ I was introduced to TypeScript for the first time in ICS 314. TypeScript is like
 
 My past experience with other programming languages such as C++ and Java also helped me get used to TypeScript in a timely fashion. Compared to C++ and Java I found TypeScript easier to pick up, but obviously not as easy to learn as Python.
 
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript.png">
+
 ## TypeScript in Software Engineering
 
 Based on my first impressions of TypeScript, I believe that it is a good programming language for software engineering. TypeScript is able to catch your mistakes as you are typing the code through static type checking, which can stop you from wasting time running code that has errors. 
