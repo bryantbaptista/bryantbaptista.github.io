@@ -10,7 +10,6 @@ labels:
   - Software Engineering
 ---
 
-<div style="font-size: 20px;">
 
 ## First Time Using TypeScript
 
@@ -34,5 +33,3 @@ While I do find the WODs stressful due to time constraints, I understand their p
 
 ## Use of AI
 I used OpenAI ChatGPT to check for spelling errors and to check my understanding of TypeScript.
-
-</div>
