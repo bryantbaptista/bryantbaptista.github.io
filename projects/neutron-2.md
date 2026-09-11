@@ -1,8 +1,8 @@
 ---
 layout: project
-type: Neutron-2
+type: project
 image: img/N2CAD.png
-title: ""
+title: Neutron-2
 date: 2026
 published: true
 labels:
