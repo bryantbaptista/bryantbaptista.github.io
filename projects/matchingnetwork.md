@@ -9,7 +9,7 @@ labels:
   - Electromagnetics
   - Matching Networks
   - Smith Chart
-summary: ""
+summary: "ECE 371 Final Project"
 ---
 
 The Design of Lumped and Distributed Matching Networks for a Lossless Transmission Line was the final project for my ECE 371 Engineering Electromagnetics class. The objective was to design and compare two networks that matched a complex load to a lossless transmission line with a characteristic impedance of 50 ohms at a design frequency of 2 GHz.

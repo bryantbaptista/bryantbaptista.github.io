@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/N2CAD.png
 title: Neutron-2
-date: 2026-09-10
+date: 2026-08-24
 published: true
 labels:
   - Mission Operations
@@ -14,7 +14,7 @@ summary: "Neutron-2 is a dual-CubeSat mission led by the Hawaii Space Flight Lab
 
 The Neutron-2 mission is an endeavor by the Hawai'i Space Flight Laboratory (HSFL) consisting of undergraduate and graduate engineering students and funded by the University Nanosatellite Program (UNP). Neutron-2 aims to help improve our understanding of neutron and gamma-ray flux in low Earth orbit using compact neutron detectors developed by Arizona State University packed into two identical CubeSats developed by HSFL.
 
-p>
+<p>
   As a member of HSFL working on the Neutron-2 project, my responsibilities
   are within the Mission Operations and Attitude Determination and Control
   Subsystems. My tasks so far have involved:
