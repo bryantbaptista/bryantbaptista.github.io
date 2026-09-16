@@ -9,7 +9,7 @@ labels:
   - Mission Operations
   - Systems Engineering
   - Power Systems
-summary: "Neutron-2 is a dual-CubeSat mission led by the Hawaii Space Flight Laboratory at the University of Hawaii at Manoa with the goal of measuring neutrons in low Earth orbit."
+summary: "Neutron-2 is a dual-CubeSat mission led by the Hawaii Space Flight Laboratory at the University of Hawaii at Manoa with the goal of measuring neutrons in low Earth orbit"
 ---
 
 The Neutron-2 mission is an endeavor by the Hawai'i Space Flight Laboratory (HSFL) consisting of undergraduate and graduate engineering students. It is funded by the University Nanosatellite Program (UNP), an Air Force Research Laboratory program focused on small satellite systems engineering. The goal of Neutron-2 is to help improve our understanding of neutron and gamma-ray flux in low Earth orbit using compact neutron detectors developed by Arizona State University packed into two identical CubeSats developed by HSFL.
