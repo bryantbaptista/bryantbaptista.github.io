@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="img/element.png" width="200">
+image: img/element.png
 title: Design of Lumped and Distributed Matching Networks for a Lossless Transmission Line
 date: 2026-07-01
 published: true
