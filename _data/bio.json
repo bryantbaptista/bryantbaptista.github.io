@@ -17,7 +17,7 @@
     { "name": "Systems Engineering" },
     { "name": "Avionics" },
     { "name": "Aerospace Technology" },
-    { "name": "Network Engineering" }
+    { "name": "Computer Networks" }
   ],
   "skills": [
     {
@@ -51,7 +51,7 @@
       "website": "",
       "startDate": "2026-08-01",
       "endDate": "Present",
-      "summary": "Part of the operations team responsible for preparing offices for FY27",
+      "summary": "Part of the Operations Team responsible for preparing offices for FY27",
       "highlights": [
         "Install, replace, and configure Windows-based computer hardware and peripherals across multiple office locations, confirming workstation functionality and running system health checks",
         "Diagnose hardware issues and document incidents, troubleshooting steps, and resolutions within Salesforce case management"
@@ -63,7 +63,7 @@
       "website": "",
       "startDate": "2025-05-01",
       "endDate": "2016-08-01",
-      "summary": "Ops Team Field Engineer for the First Hawaiian Center Cooling Tower and Roof Replacement Project",
+      "summary": "Operations Team Field Engineer for the First Hawaiian Center Cooling Tower and Roof Replacement Project",
       "highlights": [
         "Monitored HVAC and electrical infrastructure installation for a replacement project involving exhaust fans, air conditioning units, and cooling towers while ensuring no impact to ongoing building operations",
         "Created diagrams and material takeoffs for subcontractors using Bluebeam Revu, communicating project material requirements and installation locations",
@@ -76,7 +76,7 @@
       "website": "",
       "startDate": "2024-07-01",
       "endDate": "2024-12-01",
-      "summary": "Enginner intern for the estimating department",
+      "summary": "Engineer intern for the estimating department",
       "highlights": [
         "Created material takeoffs for construction project bids using Bluebeam Revu and Microsoft Excel",
         "Reviewed engineering drawings and city and county standard specifications to calculate material quantities for projects"
@@ -88,7 +88,7 @@
       "website": "",
       "startDate": "2023-07-01",
       "endDate": "2023-8-01",
-      "summary": "Technician for a security contractor",
+      "summary": "Technician for a contractor specializing in security systems",
       "highlights": [
         "Installed and maintained commercial low-voltage security systems, including Power-over-Ethernet cameras and access control equipment",
         "Performed daily preventative maintenance and troubleshooting on security systems at Tripler Army Medical Center"
