@@ -24,5 +24,5 @@ As a student studying computer engineering, my main interest is towards hardware
 
 I hope to take away several things from my software engineering class, ICS 314, such as learning new programming languages like TypeScript and understanding software engineering principles such as life cycle, deployment, testing, quality assurance, and version control. Most importantly, I intend to improve my problem-solving and troubleshooting skills through developing, debugging, and testing code. These skills will not only be useful for succeeding in ICS 314 but also in my future endeavor of being an engineer where I will be tasked with facing emerging problems and finding adequate solutions.
 
-## Use of AI
+### Use of AI
 I used ChatGPT to check for spelling and grammar errors.
