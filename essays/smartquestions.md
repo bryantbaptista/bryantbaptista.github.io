@@ -38,5 +38,5 @@ Analyzing questions on Stack Overflow and comparing "smart" with "not so smart" 
 
 Ensuring that your questions are well formulated before posting prevents other people's time from being wasted and helps keep forums from becoming cluttered, overall improving the experience for everyone. I plan to take what I learned from this experience and apply it whenever I need assistance with a problem, both in and out of school.
 
-### Use of AI
+#### Use of AI
 I used ChatGPT to check for spelling errors and to summarize Eric Raymond's main percepts.

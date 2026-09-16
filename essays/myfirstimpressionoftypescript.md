@@ -31,5 +31,5 @@ Athletic software engineering is a learning technique that utilizes timed, in-cl
 
 While I do find the WODs stressful due to time constraints, I understand their purpose. In most classes you sit down and listen to a professor talk for an hour or longer, making it easy to zone out and not actively learn anything. With WODs, you are constantly recalling information in class, which should help you become more comfortable and efficient at coding over time. With further practice, I believe that I can become more comfortable with the WODs in class and improve my TypeScript skills. 
 
-### Use of AI
+#### Use of AI
 I used ChatGPT to check for spelling errors and to check my understanding of TypeScript.
