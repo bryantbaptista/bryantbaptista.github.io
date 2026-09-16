@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/N2CAD.png
+image: <img src="img/N2CAD.png" width="200">
 title: Neutron-2
 date: 2026-08-24
 published: true
