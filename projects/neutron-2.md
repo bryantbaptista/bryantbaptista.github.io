@@ -38,5 +38,5 @@ The Neutron-2 mission is an endeavor by the Hawai'i Space Flight Laboratory (HSF
 </ul>
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/bus.jpg" class="img-thumbnail" >
+  <img width="500px" src="../img/bus.png" class="img-thumbnail" >
 </div>
