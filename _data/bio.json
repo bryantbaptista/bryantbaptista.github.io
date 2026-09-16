@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Unix" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub"]
     },
     {
       "name": "Engineering Software",
@@ -62,7 +62,7 @@
       "position": "Field Engineer Internship",
       "website": "",
       "startDate": "2025-05-01",
-      "endDate": "2016-08-01",
+      "endDate": "2025-08-01",
       "summary": "Operations Team Field Engineer for the First Hawaiian Center Cooling Tower and Roof Replacement Project",
       "highlights": [
         "Monitored HVAC and electrical infrastructure installation for a replacement project involving exhaust fans, air conditioning units, and cooling towers while ensuring no impact to ongoing building operations",
