@@ -2,39 +2,42 @@
   "basics": {
     "name": "Bryant Baptista",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/bryantbaptista.png",
     "email": "bryantb44@protonmail.com",
     "phone": "808-726-1638",
     "website": "https://bryantbaptista.github.io",
     "summary": "I am currently a student pursuing a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Fall 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "bryantbaptista", "url": "http://github.com/bryantbaptista" }
     ]
   },
   "interests": [
-    { "name": "Computer Hardware" },
+    { "name": "System Engineering" },
     { "name": "Avionics" },
     { "name": "Aerospace Technology" },
-    { "name": "Robotics" }
+    { "name": "Network Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["C++", "Python", "TypeScript", "JavaScript", "MATLAB" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Unix" ]
+    },
+    {
+      "name": "Engineering Software",
+      "keywords": [ "LTspice", "Cadence AWR Microwave Office", "Mission Planner", "Bluebeam Revu" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,71 +45,56 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "H&R Block",
+      "position": "Operations Technical Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2026-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Part of the operations team responsible for preparing offices for FY27",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Install, replace, and configure Windows-based computer hardware and peripherals across multiple office locations, confirming workstation functionality and running system health checks",
+        "Diagnose hardware issues and document incidents, troubleshooting steps, and resolutions within Salesforce case management"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Nordic PCL Construction",
+      "position": "Field Engineer Internship",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2025-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Ops Team Field Engineer for the First Hawaiian Center Cooling Tower and Roof Replacement Project",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Monitored HVAC and electrical infrastructure installation for a replacement project involving exhaust fans, air conditioning units, and cooling towers while ensuring no impact to ongoing building operations",
+        "Created diagrams and material takeoffs for subcontractors using Bluebeam Revu, communicating project material requirements and installation locations",
+        "Identified and mitigated job hazards in the field, drafted Requests for Information, and tracked project materials"
+      ]
+    },
+    {
+      "company": "Hawaiian Dredging Construction Company",
+      "position": "Engineer Internship",
+      "website": "",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-01",
+      "summary": "Enginner intern for the estimating department",
+      "highlights": [
+        "Created material takeoffs for construction projects using Bluebeam Revu and Microsoft Excel",
+        "Reviewed engineering drawings and city and county standard specifications to calculate material quantities for projects"
+      ]
+    },
+        {
+      "company": "Security Resources Pacific",
+      "position": "Security Technician",
+      "website": "",
+      "startDate": "2023-07-01",
+      "endDate": "2023-8-01",
+      "summary": "Technician for a security contractor",
+      "highlights": [
+        "Installed and maintained commercial low-voltage security systems, including Power-over-Ethernet cameras and access control equipment",
+        "Performed daily preventative maintenance and troubleshooting on security systems at Tripler Army Medical Center"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+
   "references": [
     {
       "name": "Available upon request"
