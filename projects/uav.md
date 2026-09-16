@@ -8,7 +8,7 @@ published: true
 labels:
   - UAV Avionics
   - Trade Studies
-  - Telemetry
+  - System Integration
 summary: "Part of a multidsciplinary engineering team that designed and developed an autonomous Unammed Aerial System (UAS)"
 ---
 
