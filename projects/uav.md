@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/drone.jpg
+image: img/uav.jpg
 title: University of Hawaii Drone Technologies
 date: 2025-08-01
 published: true
