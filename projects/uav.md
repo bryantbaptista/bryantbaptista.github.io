@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/drone.jpg
 title: University of Hawaii Drone Technologies
-date: 2026-09-10
+date: 2025-08-01
 published: true
 labels:
   - UAV Avionics
@@ -34,5 +34,5 @@ The goal of the University of Hawaii Drone Technologies (UHDT) team is to develo
 </ul>
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/configure.jpg" class="img-thumbnail" >
+  <img width="500px" src="../img/configure.jpg" class="img-thumbnail" >
 </div>
