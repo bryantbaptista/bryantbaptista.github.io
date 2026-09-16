@@ -7,7 +7,7 @@ date: 2026-07-01
 published: true
 labels:
   - Electromagnetics
-  - Matching Networks
+  - Impedance Matching
   - Smith Chart
 summary: "ECE 371 Final Project"
 ---
