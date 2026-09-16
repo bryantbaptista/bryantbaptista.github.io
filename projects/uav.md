@@ -22,7 +22,7 @@ As a member of the Avionics Division within the Hardware Subsystem, my responsib
 
 - Developed standard operating procedures (SOPs) for configuring the LiDAR altitude sensor’s parameters during system integration.
 
-During my tenure at UHDT I learned about drone avionics, trade studies, and UAS functionality while gaining technical presentation and writing skills in engineering. More information about the UHDT can be found [here](https://me.hawaii.edu/design/uhdt/).
+During my tenure at UHDT I learned about drone avionics, trade studies, and UAS functionality while gaining technical presentation and writing skills in engineering. More information about UHDT can be found [here](https://me.hawaii.edu/design/uhdt/).
 
 <div class="text-center p-4">
   <img width="500px" src="../img/configure.jpg" class="img-thumbnail" >
