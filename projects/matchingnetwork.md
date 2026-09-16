@@ -16,6 +16,8 @@ The Design of Lumped and Distributed Matching Networks for a Lossless Transmissi
 
 To complete this project I designed two matching networks using a Smith chart, then built the circuit schematics in Cadence AWR Microwave Office. Next, I simulated and analyzed the magnitude of the reflection coefficient from 1-3 GHz and 0-20 GHz to evaluate impedance matching and frequency response of both networks. The first design is a lumped element L-section matching network involving capacitors and inductors, while the second design is a distributed element matching network involving a transmission line and short-circuit shunt stub. Finally, I compared network performance and practical implementation considerations for both networks, including frequency dependence, component parasitics, physical size, and complexity.
 
+By completeing this project, I learned how to construct and simulate circuits in Cadence AWR Microwave Office software. I also applied concepts that I learned in class such as Smith Charts, transmission line behavior, and impedance matching.
+
 <div class="text-center p-4">
   <img width="500px" src="../img/smithchart.png" class="img-thumbnail" >
 </div>
