@@ -27,3 +27,4 @@ During my tenure at UHDT I learned about drone avionics, trade studies, and UAS 
 <div class="text-center p-4">
   <img width="500px" src="../img/configure.jpg" class="img-thumbnail" >
 </div>
+ 
