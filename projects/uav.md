@@ -12,10 +12,6 @@ labels:
 summary: "Part of a multidsciplinary engineering team that designed and developed an autonomous Unammed Aerial System (UAS)"
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/configure.jpg" class="img-thumbnail" >
-</div>
-
 The goal of the University of Hawaii Drone Technologies (UHDT) team is to develop an autonomous Unmanned Aerial System (UAS) that can detect unexploded ordnances (UXOs) in former U.S. Army defense sites within Hawaii. The system will aid in minimizing the risk to humans during the UXO removal process and enhance the efficiency of UXO detection. As a multidisciplinary effort, the team consists of undergraduate mechanical, electrical, and computer engineering students divided into hardware, software, and image processing subsystems.
 
 <p>As a member of the UAV Hardware – Avionics subsystem, my responsibilities included:</p>
@@ -36,3 +32,7 @@ The goal of the University of Hawaii Drone Technologies (UHDT) team is to develo
     altitude sensor’s parameters during system integration.
   </li>
 </ul>
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/configure.jpg" class="img-thumbnail" >
+</div>
