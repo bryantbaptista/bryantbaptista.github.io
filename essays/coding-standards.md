@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "More than Just Formatting"
+title: "More Than Just Formatting"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-24
 published: true
@@ -15,7 +15,7 @@ labels:
 
 After a few weeks into ICS 314, I was introduced to ESLint, a tool that analyzes code to find errors and formatting inconsistencies. As an extension for VSCode, ESLint scans my code as I am typing it. My first impression was that it was annoying seeing more red squiggly lines in my TypeScript code than before. Before I realized what ESLint was for, I was confused about why some things were being flagged even though they would not affect the code at all. Some examples were not having a newline after the last line of code, using double quotes instead of single quotes, or having four spaces of indentation rather than two. 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 ## Painful or Useful?
 
