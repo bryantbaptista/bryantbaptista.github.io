@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Importance of Formatting in Coding"
+title: "More than Just Formatting"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-24
 published: true
 labels:
   - TypeScript
-  - JavaScript
-  - Software Engineering
+  - ESLint
+  - VSCode
 ---
 
 ## Using ESLint with VSCode
